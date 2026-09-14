@@ -1,9 +1,15 @@
 <p align="center">
-  <a href="https://drive.google.com/file/d/1tVcsOGlRmRA9WG9vNxKFCbVzpSdD3KFr/view?usp=sharing">
-    <img src="https://shields.io" alt="Download Windows Build"/>
-  </a>
-  <img src="Logo.png" alt="Glow Browser Logo" width="220" style="border-radius: 20px;"/>
+  <img src="logo.png" alt="Glow Browser Logo" width="220" style="border-radius: 20px;"/>
 </p>
+
+<h1 align="center">Glow Browser (v1.1)</h1>
+
+<p align="center">
+  🚀 <b><a href="https://drive.google.com/file/d/1tVcsOGlRmRA9WG9vNxKFCbVzpSdD3KFr/view?usp=sharing">Click Here to Download Glow Browser v1.1 (Windows)</a></b> 🚀
+  <br>
+  <sub><i>(Size: 109 MB | Extract the ZIP file and run Glow.exe to start)</i></sub>
+</p>
+
 
 <h1 align="center">Glow Browser (v1.0)</h1>
 
