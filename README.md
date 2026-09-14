@@ -21,9 +21,9 @@
   * **Local File Access Blocked:** The browser is strictly blocked from opening or executing files from the host PC (`file://` protocols disabled), neutralising local directory traversal vulnerabilities.
 
 ## 📈 Project Evolution & Lifecycle
-* **v1.0 – v3.0:** Core browser engine setup, tab rendering systems, and window frame architecture.
-* **v4.0 – v7.0:** Integration of the sandboxed execution policy (disabling downloads/local files) and SQLite interface customisation (interactive UI setup).
-* **v8.0 – v10.0:** Security implementation phase (Cookie sanitization, custom JavaScript hooks for VPN layers, and identity spoofing).
+* **v0.1 – v0.3:** Core browser engine setup, tab rendering systems, and window frame architecture.
+* **v0.4 – v0.7:** Integration of the sandboxed execution policy (disabling downloads/local files) and SQLite interface customisation (interactive UI setup).
+* **v0.8 – v1.0:** Security implementation phase (Cookie sanitization, custom JavaScript hooks for VPN layers, and identity spoofing).
 
 ## 🚀 Future Roadmap
 * Android companion application currently in active development using Android Studio.
