@@ -1,4 +1,8 @@
 <p align="center">
+  <a href="(https://drive.google.com/file/d/1tVcsOGlRmRA9WG9vNxKFCbVzpSdD3KFr/view?usp=sharing)"> 
+    <img src="https://shields.io" alt="Download Windows Build"/>
+  </a>
+</p>
   <img src="Logo.png" alt="Glow Browser Logo" width="220" style="border-radius: 20px;"/>
 </p>
 
