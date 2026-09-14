@@ -2,7 +2,7 @@
   <img src="Logo.png" alt="Glow Browser Logo" width="220" style="border-radius: 20px;"/>
 </p>
 
-<h1 align="center">Glow Browser (v10.0)</h1>
+<h1 align="center">Glow Browser (v1.0)</h1>
 
 <p align="center">
   A highly sandboxed, accountless, privacy-first desktop web browser built over 10 development iterations.
