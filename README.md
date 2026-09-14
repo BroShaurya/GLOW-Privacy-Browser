@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="Glow Browser Logo" width="220" style="border-radius: 20px;"/>
+  <img src="Logo.png" alt="Glow Browser Logo" width="220" style="border-radius: 20px;"/>
 </p>
 
 <h1 align="center">Glow Browser (v10.0)</h1>
