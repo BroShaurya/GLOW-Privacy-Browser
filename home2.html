@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            margin: 0;
+            height: 100vh;
+            /* Flexbox to center everything in the middle of the screen */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            /* Transition makes the color change smooth */
+            transition: background-color 0.5s ease;
+            background-color: transparent; 
+        }
+
+        .center-container {
+            display: flex;
+            align-items: center; /* Vertically aligns image and text */
+            gap: 100px;            /* Space between the image and the text */
+        }
+
+        .center-text {
+            font-family: "MV Boli", "Ink Free", "Segoe Print", "Bradley Hand", "Chalkboard SE", "Noteworthy", 				 "Comic Sans MS", cursive;
+            font-size: 6vw;
+            color: #333;         /* Adjust text color as needed */
+	    transform: translateY(-120px);
+        }
+
+        .center-image {
+            width: 200px;         /* Adjust width as needed */
+            height: auto;
+	    transform: translateY(-120px);
+        }
+    </style>
+</head>
+<body>
+
+    <div class="center-container">
+        <img src="3GX_LOGO.png" alt="Icon" class="center-image">
+        <span class="center-text"> L O W</span>
+    </div>
+
+    <script>
+        // This function is called directly by the Python 'runJavaScript' line
+        function changeBgColor(color) {
+            document.body.style.backgroundColor = color;
+            localStorage.setItem('userThemeColor', color);
+        }
+
+        // On load, check if we have a saved color in the browser's local storage
+        window.onload = function() {
+            const savedColor = localStorage.getItem('userThemeColor');
+            if (savedColor) {
+                document.body.style.backgroundColor = savedColor;
+            }
+        };
+    </script>
+</body>
+</html>
