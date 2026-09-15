@@ -35,5 +35,11 @@
 ## 🚀 Future Roadmap
 * Android companion application currently in active development using Android Studio.
 
+## ⚖️ Disclaimer & Terms of Use
+Glow Browser is an open-source educational project developed for personal and research purposes. 
+* **As-Is Basis:** This software is provided "as-is" without warranties of any kind, either expressed or implied. 
+* **User Responsibility:** The developer is not liable for any network security vulnerabilities, data losses, system bugs, or user browsing activity conducted while utilizing this software. 
+* **VPN Service:** The integrated free VPN nodes are third-party servers. The developer does not own, control, or guarantee the stability, speed, or uptime of these servers.
+
 ---
 *Developed by an independent high school software engineer. Protected under the GNU GPLv3 License.*
